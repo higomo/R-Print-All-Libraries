@@ -1,2 +1,2 @@
 # R-Print-All-Libraries
-Complies all available, downloadable libraries on a single line for quick code insertion. Can be executed in a separate script and copied in. Be sure to check for incompatible or outdated libraries before, or during execution of code. Be sure to update the patched version of R to prevent errors when executing installed.packages().
+Compiles all available, downloaded libraries on a single line and subsequently installs all collected libraries. Be sure to vet out incompatible or outdate libraries to prevent hitches during the execution of the code. Be sure to run an patched version of R to prevent errors when executing installed.packages().
