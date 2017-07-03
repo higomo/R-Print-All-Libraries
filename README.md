@@ -1,2 +1,2 @@
 # R-Print-All-Libraries
-Prints all available libraries on a single line, ready to insert into code
+Complies all available, downloadable libraries on a single line for quick code insertion. Can be executed in a separate script and copied in. Be sure to check for incompatible or outdated libraries before, or during execution of code.
